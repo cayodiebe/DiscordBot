@@ -41,4 +41,4 @@ client.on("message", async massage => {
     massage.channel.send("Removido da lista o Pedido: " + args );
   }
 })
-client.login("NzE2NzI4MzAzMDcxMDAyNjg0.XtQBPg.7zP0UVPkK-X-j0fLt69ats-OSX0");
+client.login("YOUR TOKEN");
